@@ -1,0 +1,119 @@
+{
+  "author": "PT ZEN MULTIMEDIA (Reza M)",
+  "locale": "en",
+
+  "prayer_time": {
+    "title": "Prayer Time",
+    "shubuh": "Fajr",
+    "dzuhur": "Dhuhr",
+    "asyar": "Asr",
+    "magrib": "Maghrib",
+    "isya": "Isha"
+  },
+
+  "see_more": "See More",
+  "news": {
+    "bubunge_news": "Bebunge News",
+    "latest_news": "Latest News"
+  },
+  "information": "Information",
+  "about_bekasi": {
+    "title": "About Bekasi",
+    "history": "History",
+    "population": "Population",
+    "geographical": "Geographical"
+  },
+  "still_empty": "{lang}Belum diisi",
+  "emergency": {
+    "emergency_button": "Emergency Button",
+    "emergency_text": "Press and Hold The Button for 3 Seconds",
+    "form_title_name": "Name",
+    "form_hint_title_name": "Enter your name",
+    "form_title_phone": "Phone Number",
+    "form_hint_title_phone": "Enter your phone number",
+    "form_title_address": "Address",
+    "form_hint_title_address": "Enter your address",
+    "form_title_event": "Event",
+    "form_hint_title_event": "Enter your condition",
+    "form_title_location": "Location",
+    "form_hint_title_location": "Enter your location",
+    "form_hint_title_": "Enter your phone number",
+    "submit_title_name": "Send Report",
+    "send_report_loading": "Sedang Memproses Laporan",
+    "send_report_success": "Laporan Berhasil dikirim",
+    "send_report_error": "Laporan Gagal dikirim"
+  },
+
+  "auth_form": {
+    "form_title_username": "Username",
+    "form_hint_title_username": "Enter your username",
+    "form_title_password": "Password",
+    "form_hint_title_password": "Enter your password",
+    "submit_signin": "Sign In"
+  },
+  "settings": {
+    "title": "Settings",
+    "option": "Option",
+    "show_prayer_schedule": "Show Prayer Schedule",
+    "update_prayer_schedule": "Update Prayer Schedule",
+    "set_language": "Set Language",
+    "your_location": "Your Location",
+    "bebeli_account": "Bebeli Account",
+    "logout_bebeli": "Logout Bebeli"
+  },
+  "navbar": {
+    "home": "Home",
+    "news": "News",
+    "emergency": "Emergency",
+    "settings": "Settings"
+  },
+  "yellow_card": {
+    "button" : {
+      "login" : "LOGIN",
+      "register": "REGISTER",
+      "oke" : "OKE",
+      "send" : "SEND",
+      "next" : "NEXT"
+    },
+    "title_form_text": {
+      "email": "Email",
+      "name": "Full Lengkap",
+      "nomor": "No Handphone",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "new_password": "New Password",
+      "new_confirm_password": "Confirm New Password"
+    },
+    "hint_form_text": {
+      "email": "Johndoe@example.com",
+      "password": "*******"
+    },
+    "login": {
+      "title": "Enter Application",
+      "subtitle": "Enter username & password correctly",
+      "register_text": "Don't have an account?",
+      "forgot_password" : "Forgot Password?"
+    },
+    "register": {
+      "title": "General - Application registration",
+      "subtitle": "Please complete the following form correctly.",
+      "login_text": "Already have an account?"
+    },
+    "forgot_password": {
+      "title": "You Forgot Password?",
+      "subtitle": "Enter the email you used to register for this account"
+    },
+    "otp": {
+      "title": "Enter the OTP Code",
+      "subtitle": "Enter the OTP code that we have sent via your email"
+    },
+    "change_password": {
+      "title": "Reset Password",
+      "subtitle": "Please reset your password. We recommend creating a password that is easy to remember",
+      "dialog" : {
+        "title" : "Password Reset Successful!",
+        "subtitle" : "Please log in with the new password"
+      }
+    }
+  }
+}

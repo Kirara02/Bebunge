@@ -1,0 +1,37 @@
+class RoutesName {
+  static const String app = '/app';
+  static const String appRoot = '/appRoot';
+  static const String splashPage = '/splash';
+  static const String signinPage = '/signin';
+  static const String registerPage = '/register';
+  static const String berandaPage = '/beranda';
+  static const String beritaPage = '/berita';
+  static const String beritaDetailPage = '/berita_detail';
+  static const String daruratPage = '/darurat';
+  static const String daruratBerandaPage = '/darurat_beranda';
+  static const String aktivitasPage = '/aktivitas';
+  static const String profilPage = '/profile';
+  static const String pengaturanPage = '/pengaturan';
+  static const String pendidikanPage = '/pendidikan';
+  static const String pendidikanDetailpage = '/pendidikan_detail';
+  static const String bebeliPage = '/bebeli';
+  static const String bebeliSigninPage = '/bebeli_signin';
+  static const String bebeliKeranjangPage = '/bebeli_keranjang';
+  static const String bebeliDetailPage = '/bebeli_detail';
+  static const String pilihRegistrasi = '/pilih_registrasi';
+  static const String transportasiPage = '/transportasi';
+  static const String kesehatanPage = '/kesehatan';
+  static const String kesehatanRSDetailPage = '/kesehatan_rs_detail';
+  static const String tentangSejarah = '/tentang_Sejarah';
+  static const String tentangKependudukan = '/tentang_Kependudukan';
+  static const String tentangGeografis = '/tentang_Geografis';
+  static const String umumInfoPage = '/umum_info';
+  static const String KesehatanInfoPage = '/kesehatan_info';
+  static const String ibadahInfoPage = '/ibadah_info';
+  static const String wisataInfoPage = '/wisata_info';
+  static const String hargaPasarPage = '/harga_pasar';
+  static const String onboardPage = '/onboard';
+  static const String fasilitasPage = '/fasilitas';
+  static const String LocationPage = '/location';
+  static const String setJadwalPage = '/set_jadwal';
+}

@@ -1,0 +1,118 @@
+{
+  "author": "PT ZEN MULTIMEDIA (Reza M)",
+  "locale": "id",
+
+  "prayer_time": {
+    "title": "Jadwal Shalat",
+    "shubuh": "Shubuh",
+    "dzuhur": "Dzuhur",
+    "asyar": "Asyar",
+    "magrib": "Maghrib",
+    "isya": "Isya"
+  },
+  "see_more": "Lihat Semua",
+  "news": {
+    "bubunge_news": "Berita Bebunge",
+    "latest_news": "Berita Terkini"
+  },
+  "information": "Informasi",
+  "about_bekasi": {
+    "title": "Tentang Bekasi",
+    "history": "Sejarah",
+    "population": "Kependudukan",
+    "geographical": "Geografis"
+  },
+  "still_empty": "{lang}Belum diisi",
+  "emergency": {
+    "emergency_button": "Tombol Darurat",
+    "emergency_text": "Tekan dan Tahan Tombol Selama 3 Detik",
+    "form_title_name": "Nama",
+    "form_hint_title_name": "Masukkan nama anda",
+    "form_title_phone": "Nomor Telepon",
+    "form_hint_title_phone": "Masukkan nomor telepon anda",
+    "form_title_address": "Alamat",
+    "form_hint_title_address": "Masukkan alamat anda",
+    "form_title_event": "Kejadian",
+    "form_hint_title_event": "Masukkan kejadian",
+    "form_title_location": "Lokasi",
+    "form_hint_title_location": "Masukkan lokasi anda",
+    "submit_title_name": "Kirim Laporan",
+    "send_report_loading": "Processing The Report",
+    "send_report_success": "The report was successfully sent",
+    "send_report_error": "Failure reports are sent"
+  },
+  "auth_form": {
+    "form_title_username": "Nama Pengguna",
+    "form_hint_title_username": "Masukkan nama pengguna",
+    "form_title_password": "Kata Sandi",
+    "form_hint_title_password": "Masukkan kata sandi",
+    "submit_signin": "Masuk"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "option": "Opsi",
+    "show_prayer_schedule": "Tampilkan Jadwal Shalat",
+    "update_prayer_schedule": "Perbaharui Jadwal Shalat",
+    "set_language": "Atur Bahasa",
+    "your_location": "Lokasi Anda",
+    "bebeli_account": "Akun Bebeli",
+    "logout_bebeli": "Keluar Bebeli"
+  },
+
+  "navbar": {
+    "home": "Beranda",
+    "news": "Berita",
+    "emergency": "Darurat",
+    "settings": "Pengaturan"
+  },
+
+  "yellow_card": {
+    "button" : {
+      "login" : "MASUK",
+      "register": "DAFTAR",
+      "oke" : "OKE",
+      "send" : "KIRIM",
+      "next" : "Lanjutkan"
+    },
+    "title_form_text" : {
+      "email" : "Email",
+      "name": "Nama Lengkap",
+      "nomor": "No HP",
+      "password": "Password",
+      "confirm_password": "Konfirmasi Password",
+      "new_password": "Password Baru",
+      "new_confirm_password": "Konfirmasi Password Baru"
+    },
+    "hint_form_text": {
+      "email" : "Johndoe@example.com",
+      "password" : "*******"
+    },
+    "login": {
+      "title": "Masuk Aplikasi",
+      "subtitle": "Masukan nama pengguna & kata sandi dengan benar",
+      "register_text": "Belum punya Akun?",
+      "forgot_password" : "Lupa Kata Sandi?"
+    },
+    "register": {
+      "title": "Umum - Daftar Aplikasi",
+      "subtitle": "Silahkan lengkapi formulir berikut dengan benar.",
+      "login_text": "Sudah punya Akun?"
+    },
+    "forgot_password" : {
+      "title" : "Anda Lupa Kata Sandi?",
+      "subtitle" : "Masukkan email yang kamu gunakan untuk mendaftar akun ini"
+    },
+    "otp" : {
+      "title" : "Masukkan Kode OTP",
+      "subtitle" : "Masukkan kode OTP yang sudah kami kirimkan melalui email anda"
+    },
+    "change_password" : {
+      "title" : "Atur Ulang Kata Sandi",
+      "subtitle" : "Silahkan atur ulang kata sandi anda. Kami menyarankan untuk membuat kata sandi dengan sandi yang mudah diingat",
+      "dialog" : {
+        "title" : "Atur Ulang Kata Sandi Berhasil!",
+        "subtitle" : "Silahkan login dengan kata sandi baru"
+      }
+    }
+  }
+}

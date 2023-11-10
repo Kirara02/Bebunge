@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "Flutter (lib\\src\\widgets\\common\\loading.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\src\\widgets\\common\\loading.dart"
+        },
+        {
+            "name": "Flutter Profile",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "flutterMode": "profile",
+            
+        }
+    ]
+}
